@@ -8,7 +8,11 @@ print("Checking for dependencies...")
 
 packages = {
     "arcade": "arcade",
-    "pymunk" : "pymunk"
+    "pymunk" : "pymunk",
+    "ollama" : "ollama",
+    "speech_recognition" : "SpeechRecognition",
+    "pyttsx3" : "pyttsx3",
+    "pyaudio" : "PyAudio",
 }
 
 for module, package in packages.items():
