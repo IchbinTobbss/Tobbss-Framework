@@ -13,6 +13,8 @@ packages = {
     "speech_recognition": "SpeechRecognition",
     "pyttsx3": "pyttsx3",
     "pyaudio": "PyAudio",
+    "mss": "mss",
+    "numpy": "numpy"
 }
 
 
